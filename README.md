@@ -36,4 +36,5 @@ The performance varied rapidly month by month. In February, sales volume and ord
 
 # Reference
 (1) https://www.youtube.com/watch?v=iYEw8L3Un4c
+
 (2) https://www.persado.com/articles/checkout-completion-rate/#:~:text=The%20average%20checkout%20completion%20rate,Performance%20monitoring
