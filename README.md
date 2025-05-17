@@ -28,10 +28,10 @@ Even though I went over the dataset based on the CLEAN framework suggested by Ch
 Additionally, I added three columns: two for deriving completed orders data, and one for extracting the month.
 
 # Results
-**Low completion rate**
+**Low completion rate** : 
 The sales showed a low completion rate. While the total sales were $243,845 in 2025, the completed sales were $88,530. The order volume showed almost same result. Order volume displayed a similar trend: out of 250 total orders in 2025, only 88 were completed. This means about one-third of orders were completed, indicating a need for improvement(2).
 
-**Volatile performance**
+**Volatile performance** : 
 The performance varied rapidly month by month. In February, sales volume and order volume soared by 3,560% and 1,900%, respectively. However, in April, these metrics decreased by 83.8% and 93.8%.
 
 # Reference
