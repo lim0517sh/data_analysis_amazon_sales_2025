@@ -16,7 +16,6 @@ https://www.kaggle.com/datasets/zahidmughal2343/amazon-sales-2025/data
 
 # Project Motivation
 In this project, I focused on enabling stakeholders to quickly and accurately understand monthly performance. At the same time, I added conditional components them  so they can easily check yearly and quarterly performance as well.
-At first, I contained commerce major and general metrics in the dashboard such as sales volume, order volume, and AOV. In order to deliver not only static information, but also time series information, I added MoM growth to the sales volume and sales volume metrics.
 
 Initially, I included key commerce and general metrics in the dashboard, such as sales volume, order volume, and average order value (AOV). To provide not only static information but also time series insights, I added month-over-month (MoM) growth rates for both sales volume and order volume.
 
