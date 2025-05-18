@@ -15,7 +15,7 @@ https://www.kaggle.com/datasets/zahidmughal2343/amazon-sales-2025/data
 - Status - Order status (Completed, Pending, or Cancelled)
 
 # Project Motivation
-In this project, I focused on enabling stakeholders to quickly and accurately understand monthly performance. At the same time, I added conditional components them  so they can easily check yearly and quarterly performance as well.
+In this project, I focused on enabling stakeholders to quickly and accurately understand monthly performance. At the same time, I added conditional components so they can easily check yearly and quarterly performance as well.
 
 Initially, I included key commerce and general metrics in the dashboard, such as sales volume, order volume, and average order value (AOV). To provide not only static information but also time series insights, I added month-over-month (MoM) growth rates for both sales volume and order volume.
 
